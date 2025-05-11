@@ -1,0 +1,27 @@
+.wrapper {
+  padding: 2rem;
+  font-family: system-ui, sans-serif;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+.navbar {
+  margin-bottom: 1rem;
+}
+
+.navLink {
+  margin-right: 1rem;
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.navLink:hover {
+  color: #0055aa;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin-bottom: 2rem;
+}

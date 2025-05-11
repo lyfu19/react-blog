@@ -6,6 +6,12 @@ This project was developed as part of a hands-on learning exercise to **solidify
 
 ---
 
+## 🔗 Live Demo
+
+🌐 [https://bright-khapse-dafb58.netlify.app](https://bright-khapse-dafb58.netlify.app)
+
+---
+
 ## 🚀 Features
 
 - 🛣️ **Routing with React Router**
